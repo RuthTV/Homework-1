@@ -1,0 +1,9 @@
+character;name;hp;stamina/mana;strength/intelligence
+Wizard;a;50;44;49
+Wizard;b;110;35;50
+Wizard;c;55;25;65
+Wizard;d;100;11;3
+Warrior;e;225;49;3
+Warrior;f;150;50;5
+Warrior;g;200;65;2
+Warrior;h;198;3;12
